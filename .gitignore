@@ -33,6 +33,9 @@ MANIFEST
 *.manifest
 *.spec
 
+# Mac temp file 
+.DS_Store
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
